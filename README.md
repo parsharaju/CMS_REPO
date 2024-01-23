@@ -1,5 +1,3 @@
-This is atest file
-
 ## Courier Management System
 Courier Management System will help keep track of courier details and store them in a database. It will provide options like insertion, deletion, updating and displaying the recorded data. It will also provide login facility to the customer and the employee. 
 
